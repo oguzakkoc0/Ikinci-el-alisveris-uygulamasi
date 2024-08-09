@@ -1,0 +1,15 @@
+C:\Users\pc\OneDrive\Masaüstü\c#\Dolap\Dolap\bin\Debug\Dolap.exe.config
+C:\Users\pc\OneDrive\Masaüstü\c#\Dolap\Dolap\bin\Debug\Dolap.exe
+C:\Users\pc\OneDrive\Masaüstü\c#\Dolap\Dolap\bin\Debug\Dolap.pdb
+C:\Users\pc\OneDrive\Masaüstü\c#\Dolap\Dolap\obj\Debug\Dolap.csproj.AssemblyReference.cache
+C:\Users\pc\OneDrive\Masaüstü\c#\Dolap\Dolap\obj\Debug\Dolap.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\OneDrive\Masaüstü\c#\Dolap\Dolap\obj\Debug\Dolap.AnaSayfa.resources
+C:\Users\pc\OneDrive\Masaüstü\c#\Dolap\Dolap\obj\Debug\Dolap.Form1.resources
+C:\Users\pc\OneDrive\Masaüstü\c#\Dolap\Dolap\obj\Debug\Dolap.hesap.resources
+C:\Users\pc\OneDrive\Masaüstü\c#\Dolap\Dolap\obj\Debug\Dolap.kayit.resources
+C:\Users\pc\OneDrive\Masaüstü\c#\Dolap\Dolap\obj\Debug\Dolap.Properties.Resources.resources
+C:\Users\pc\OneDrive\Masaüstü\c#\Dolap\Dolap\obj\Debug\Dolap.UrunDetayForm.resources
+C:\Users\pc\OneDrive\Masaüstü\c#\Dolap\Dolap\obj\Debug\Dolap.csproj.GenerateResource.cache
+C:\Users\pc\OneDrive\Masaüstü\c#\Dolap\Dolap\obj\Debug\Dolap.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Masaüstü\c#\Dolap\Dolap\obj\Debug\Dolap.exe
+C:\Users\pc\OneDrive\Masaüstü\c#\Dolap\Dolap\obj\Debug\Dolap.pdb
